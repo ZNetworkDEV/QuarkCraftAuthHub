@@ -1,0 +1,3 @@
+name: QuarkCraftAuth
+version: 1.0
+main: net.quarkcraft.auth.CoreAuth
